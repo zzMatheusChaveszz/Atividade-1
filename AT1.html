@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head> <!-- conteúdo do head -->
+
+    <meta charset="UTF-8">
+    <title>Atividade 1</title>
+</head>
+
+<body> <!-- conteúdo do body -->
+
+
+    <h1>Olá meu nome é Matheus, tenho 17 anos</h1>
+    <p>escolhi o IOS por otimas recomendações sobre os diversos cursos,</p>
+    <p>Dos caracteres reservados escolhi o &dollar; </p>
+
+    <h2>objetivos para 2023!</h2>
+    <ol>
+        <li>Terminar o curso de desenvolvimento web</li>
+        <li>comprar um celular novo</li>
+        <li>ler mais</li>
+    </ol>
+
+    <h3>Metas para 2024!</h3>
+    <ul>
+        <li>entrar em outro curso da IOS</li>
+        <li>aprender inglês</li>
+        <li>viajar para o esterior</li>
+    </ul>
+
+</html>
